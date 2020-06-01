@@ -1,0 +1,41 @@
+﻿  stdafx.cpp
+  randtable.c
+  huffman.c
+  decompress.c
+  crctable.c
+  compress.c
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\compress.c(205): warning C4244: “=”: 从“__int64”转换到“Int32”，可能丢失数据
+  bzlib.c
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bzlib.c(996): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bzlib.c(1055): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bzlib.c(1190): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bzlib.c(1422): warning C4996: 'setmode': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _setmode. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(528): note: 参见“setmode”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bzlib.c(1430): warning C4996: 'fdopen': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fdopen. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2448): note: 参见“fdopen”的声明
+  blocksort.c
+  正在生成代码...
+  bsdiff.cpp
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(260): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(514): note: 参见“open”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(261): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(501): note: 参见“lseek”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(263): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(501): note: 参见“lseek”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(266): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(521): note: 参见“read”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(267): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(457): note: 参见“close”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(288): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(514): note: 参见“open”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(289): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(501): note: 参见“lseek”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(291): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(501): note: 参见“lseek”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(295): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(521): note: 参见“read”的声明
+e:\vsproject\bsdiffutil\bsdiffutil\bsdiffutil\source\bsdiff.cpp(296): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(457): note: 参见“close”的声明
+    正在创建库 E:\VSProject\BsDiffUtil\BsDiffUtil\x64\Debug\BsDiffUtil.lib 和对象 E:\VSProject\BsDiffUtil\BsDiffUtil\x64\Debug\BsDiffUtil.exp
+  BsDiffUtil.vcxproj -> E:\VSProject\BsDiffUtil\BsDiffUtil\x64\Debug\BsDiffUtil.dll
+  BsDiffUtil.vcxproj -> E:\VSProject\BsDiffUtil\BsDiffUtil\x64\Debug\BsDiffUtil.pdb (Full PDB)
